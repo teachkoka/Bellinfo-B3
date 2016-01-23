@@ -1,0 +1,7 @@
+bin
+.classpath
+.project
+*.ser
+*.txt
+*.rar
+.settings
